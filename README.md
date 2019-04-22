@@ -1,3 +1,3 @@
 # LoadingAnimationView
 loading动画
-![image](https://github.com/HavenWWH/LoadingAnimationView/new/master/loadinging.gif)
+![image](https://github.com/HavenWWH/LoadingAnimationView/blob/master/loadinging.gif)
